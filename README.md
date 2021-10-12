@@ -1,4 +1,4 @@
-![jump](https://github.com/m5o/m5o/blob/master/jump.gif)
+![jump](https://github.com/m5o/m5o/blob/main/jump.gif)
 
 <!--
 ### Hi there 👋
